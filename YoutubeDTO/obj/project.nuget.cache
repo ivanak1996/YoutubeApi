@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gszZvpwRoWJMaMHVWcA60aYG3axZf+cJd+CWjvIW4ILcauYba0/mwe48ffnNAAeVksU/MpZ/wM/c9Z85T4fDyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivana\\source\\repos\\YoutubeApi\\YoutubeDTO\\YoutubeDTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivana\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ivana\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

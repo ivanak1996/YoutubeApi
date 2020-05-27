@@ -1,0 +1,12 @@
+C:\Users\ivana\source\repos\YoutubeApi\YoutubeDownloadService\bin\Debug\netstandard2.0\YoutubeDownloadService.deps.json
+C:\Users\ivana\source\repos\YoutubeApi\YoutubeDownloadService\bin\Debug\netstandard2.0\YoutubeDownloadService.dll
+C:\Users\ivana\source\repos\YoutubeApi\YoutubeDownloadService\obj\Debug\netstandard2.0\YoutubeDownloadService.csprojAssemblyReference.cache
+C:\Users\ivana\source\repos\YoutubeApi\YoutubeDownloadService\obj\Debug\netstandard2.0\YoutubeDownloadService.AssemblyInfoInputs.cache
+C:\Users\ivana\source\repos\YoutubeApi\YoutubeDownloadService\obj\Debug\netstandard2.0\YoutubeDownloadService.AssemblyInfo.cs
+C:\Users\ivana\source\repos\YoutubeApi\YoutubeDownloadService\bin\Debug\netstandard2.0\YoutubeDownloadService.pdb
+C:\Users\ivana\source\repos\YoutubeApi\YoutubeDownloadService\bin\Debug\netstandard2.0\YoutubeDTO.dll
+C:\Users\ivana\source\repos\YoutubeApi\YoutubeDownloadService\bin\Debug\netstandard2.0\YoutubeDTO.pdb
+C:\Users\ivana\source\repos\YoutubeApi\YoutubeDownloadService\obj\Debug\netstandard2.0\YoutubeDownloadService.csproj.CopyComplete
+C:\Users\ivana\source\repos\YoutubeApi\YoutubeDownloadService\obj\Debug\netstandard2.0\YoutubeDownloadService.dll
+C:\Users\ivana\source\repos\YoutubeApi\YoutubeDownloadService\obj\Debug\netstandard2.0\YoutubeDownloadService.pdb
+C:\Users\ivana\source\repos\YoutubeApi\YoutubeDownloadService\obj\Debug\netstandard2.0\YoutubeDownloadService.csproj.CoreCompileInputs.cache

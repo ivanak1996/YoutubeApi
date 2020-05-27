@@ -1,0 +1,9 @@
+C:\Users\ivana\source\repos\YoutubeApi\YoutubeDTO\bin\Debug\netstandard2.0\YoutubeDTO.deps.json
+C:\Users\ivana\source\repos\YoutubeApi\YoutubeDTO\bin\Debug\netstandard2.0\YoutubeDTO.dll
+C:\Users\ivana\source\repos\YoutubeApi\YoutubeDTO\bin\Debug\netstandard2.0\YoutubeDTO.pdb
+C:\Users\ivana\source\repos\YoutubeApi\YoutubeDTO\obj\Debug\netstandard2.0\YoutubeDTO.csprojAssemblyReference.cache
+C:\Users\ivana\source\repos\YoutubeApi\YoutubeDTO\obj\Debug\netstandard2.0\YoutubeDTO.csproj.CoreCompileInputs.cache
+C:\Users\ivana\source\repos\YoutubeApi\YoutubeDTO\obj\Debug\netstandard2.0\YoutubeDTO.AssemblyInfoInputs.cache
+C:\Users\ivana\source\repos\YoutubeApi\YoutubeDTO\obj\Debug\netstandard2.0\YoutubeDTO.AssemblyInfo.cs
+C:\Users\ivana\source\repos\YoutubeApi\YoutubeDTO\obj\Debug\netstandard2.0\YoutubeDTO.dll
+C:\Users\ivana\source\repos\YoutubeApi\YoutubeDTO\obj\Debug\netstandard2.0\YoutubeDTO.pdb
